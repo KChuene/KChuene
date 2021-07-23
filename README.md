@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @KChuene
-- 👀 I’m interested in ... Ethical Hacking, Data Science
+- 👀 I’m interested in ... Ethical Hacking, Data Science, Unity - Game Development, Blender - Modelling and Web Development
 - 🌱 I’m currently learning ... Data Science, Java Script (suspended)
 - 💞️ I’m looking to collaborate on ... (TBA)
 - 📫 How to reach me ... (TBA)
