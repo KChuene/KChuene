@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @KChuene
+- 👋 Hi, I’m K
 - 👀 I’m interested in ... Ethical Hacking, Data Science, Unity - Game Development, Blender - Modelling and Web Development
-- 🌱 I’m currently learning ... Data Science, Java Script (suspended)
+- 🌱 I’m currently learning ... Java Script, Kotlin 
 - 💞️ I’m looking to collaborate on ... (TBA)
 - 📫 How to reach me ... (TBA)
 
