@@ -1,4 +1,4 @@
-
+```
  _   _         _    _                  
 ( ) ( )       (_ ) (_ )                
 | |_| |   __   | |  | |    _           
@@ -24,12 +24,10 @@ $$$$$$$$\                                     $$\                     $$\
    $$ |$$ |     $$  __$$ | \$$$  /  $$   ____|$$ |$$   ____|$$ |          
    $$ |$$ |     \$$$$$$$ |  \$  /   \$$$$$$$\ $$ |\$$$$$$$\ $$ |      $$\ 
    \__|\__|      \_______|   \_/     \_______|\__| \_______|\__|      \__|
+```
 
-
-- 👋 Hi, I’m K
-- 👀 I’m interested in ... Software Development and Cyber Security
-- 🌱 I’m currently learning ... Cyber Security (Blue teaming)
-- 📫 How to reach me ... I wonder how?
+- 👋 I was once an adventurer like you, till I took an arrow in the knee... I jest.
+- ✨ Nonetheless, make yourself at home! 
 
 <!---
 KChuene/KChuene is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
